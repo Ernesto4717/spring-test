@@ -1,0 +1,11 @@
+
+
+<dataset>
+
+	<USUARIO id="1" name="Juan" apellido="Ballesteros" />
+	<USUARIO id="2" name="Jose" apellido="lopez" />
+	<USUARIO id="3" name="Fernanda" apellido="Ballesteros" />
+	<USUARIO_ATTEMP id="1" contador="0" />
+	<USUARIO_ATTEMP id="2" contador="0" />
+	<USUARIO_ATTEMP id="3" contador="0" />	
+</dataset>
